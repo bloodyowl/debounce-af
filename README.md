@@ -1,5 +1,8 @@
 # debounce af
 
+[![browser support](https://ci.testling.com/bloodyowl/debounce-af.png)](https://ci.testling.com/bloodyowl/debounce-af)
+
+
 ## install
 
 ```sh
